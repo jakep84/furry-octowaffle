@@ -23,6 +23,6 @@ nav {
 div > .content {
 	padding: 0px 15px;
 }
-li > .links {
-	display: inline block;
+.links > li {
+	display: inline-block;
 }
