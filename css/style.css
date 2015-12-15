@@ -1,0 +1,25 @@
+body {
+	color: lightGray;
+
+}
+div {
+    border: 1px solid Chocolate;
+}
+
+nav {
+	background-color: white;
+}
+.top-navigation {
+	background-color: #fff;
+}
+.top-navigation > .content {
+	width: 970px;
+	height: 70px;
+	margin: 0 auto;
+}
+.top-navigation > .links {
+	float: right;
+}
+div > .content {
+	padding: 0px 15px;
+}
