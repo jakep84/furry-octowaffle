@@ -15,14 +15,18 @@ nav {
 	width: 100%;
 	border-bottom: 1px solid #DDD;
 	font-family: 'Roboto', sans-serif;
+	/* not sure if this goes here */
 	-webkit-font-smoothing: antialiased;
  	font-size: 16px;
  	color: #838994;
  	letter-spacing: 0.03em; 
 }
-.top-navigation .links > .active :hover {
+.top-navigation .links > .active {
     color: #4c5058;
     font-weight: 500;
+}
+.top-navigation .links > .active :hover {
+	color: white;
 }
 .top-navigation > .content {
 	width: 970px;
