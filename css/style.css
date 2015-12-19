@@ -18,14 +18,15 @@ nav {
  	font-size: 16px;
  	color: #838994;
  	letter-spacing: 0.03em;
+/* not sure how to use box-sizing */ 	
+ 	box-sizing: padding-box; 
+ 	margin-top: 10px;
 }
 .top-navigation > .content {
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
 	padding: 0px 15px;
-/*	box-sizing: padding-box; */
-	margin-top: 10px;
 }
 .content > .links {
 	float: right;
