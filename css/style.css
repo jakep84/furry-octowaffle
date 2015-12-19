@@ -20,7 +20,7 @@ nav {
  	color: #838994;
  	letter-spacing: 0.03em; 
 }
-.top-navigation .links > .active {
+.top-navigation .links > .active :hover {
     color: #4c5058;
     font-weight: 500;
 }
