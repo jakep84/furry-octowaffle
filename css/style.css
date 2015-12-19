@@ -14,13 +14,18 @@ nav {
 	position: fixed;
 	width: 100%;
 	border-bottom: 1px solid #DDD;
+	font-family: 'Roboto', sans-serif;
+ 	font-size: 16px;
+ 	color: #838994;
+ 	letter-spacing: 0.03em;
 }
 .top-navigation > .content {
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
 	padding: 0px 15px;
-	box-sizing: border-box;
+/*	box-sizing: padding-box; */
+	margin-top: 10px;
 }
 .content > .links {
 	float: right;
