@@ -1,16 +1,9 @@
+
 html {
   box-sizing: border-box;
 }
 *, *:before, *:after {
   box-sizing: inherit;
-}
-body {
-	font-family: 'Roboto', sans-serif;
-	-webkit-font-smoothing: antialiased;
-}
-h1, h3 {
-	text-align: center;
-	font-size: 20px;
 }
 div {
     border: 1px solid Chocolate;
@@ -23,7 +16,6 @@ nav {
 	position: fixed;
 	width: 100%;
 	border-bottom: 1px solid #DDD;
-	/* not sure if this goes here */
 	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
  	font-size: 16px;
@@ -31,9 +23,11 @@ nav {
  	letter-spacing: 0.03em; 
 .top-navigation .links {
     float: right;
+    font-family: 'Roboto', sans-serif;
     color: #838994;
     font-size: 16px;
     margin-top: 25px;
+    -webkit-font-smoothing: antialiased;
 }
 .top-navigation .links > .active {
     color: #4c5058;
@@ -61,13 +55,6 @@ div > .content {
 .links > li {
 	display: inline-block;
 }
-/*this (my code) works */
-/*body {
-color: lightGray;
-background-image: url('../images/first-background.jpg');
-}*/
-
-/*this code messes up everything*/
 .introduction {
     background-image: url('../images/first-background.jpg');
     background-position: center bottom;
@@ -81,4 +68,11 @@ background-image: url('../images/first-background.jpg');
 	width: 970px;
 	margin: 0 auto;
 	padding: 0px 15px;
+	font-family: 'Roboto', sans-serif;
+	-webkit-font-smoothing: antialiased;
+
+}
+h1, h3 {
+	text-align:center;
+	font-size: 20px;
 }
