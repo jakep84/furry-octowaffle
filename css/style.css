@@ -55,10 +55,7 @@ nav {
 	box-sizing: padding-box; 
  	margin-top: 25px;
 }
-div > .content {
-	padding: 0px 15px;
-}
-.links > li {
+.links li {
 	display: inline-block;
 }
 .introduction {
@@ -81,14 +78,14 @@ div > .content {
 	margin:0 auto;
 	padding: 0px 15px;
 }
-.introduction > h1 {
+.introduction h1 {
 	margin-top: 17.5rem;
     font-size: 40px;
 }
-.introduction > h3 {
+.introduction h3 {
 	margin-top: 1.25rem;
     font-size: 1.563rem;
 }
 section {
-	border:1px Chocolate;
+	border:1px solid Chocolate;
 }
