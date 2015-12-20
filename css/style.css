@@ -85,7 +85,7 @@ nav {
 section {
 	border:1px solid Chocolate;
 }
-.big-button {
+button {
 	background-color: #ffa500;
 	margin: auto 0;
 	text-shadow:none;
@@ -94,6 +94,6 @@ section {
 	padding:16px 26px;
 	text-shadow: none;
 }
-.big-button :hover {
+button :hover {
 	cursor:pointer;
 }
