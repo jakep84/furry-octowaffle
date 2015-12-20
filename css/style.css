@@ -6,7 +6,7 @@ html {
 }
 body {
 	color: lightGray;
-
+	background-image: url('../images/first-background.jpg');
 }
 div {
     border: 1px solid Chocolate;
