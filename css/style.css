@@ -85,11 +85,15 @@ nav {
 section {
 	border:1px solid Chocolate;
 }
-.button {
+.big-button {
 	background-color: #ffa500;
 	margin: auto 0;
-	border-radius: 50px;
+	text-shadow:none;
+	border-style:none;
+	border-radius: 4px;
+	padding:16px 26px;
+	text-shadow: none;
 }
-.button :hover {
+.big-button :hover {
 	cursor:pointer;
 }
