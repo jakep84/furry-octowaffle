@@ -86,5 +86,9 @@ section {
 	border:1px solid Chocolate;
 }
 .button {
-	
+	background-color: #ffa500;
+	margin: auto 0;
+}
+.button :hover {
+	cursor:pointer;
 }
