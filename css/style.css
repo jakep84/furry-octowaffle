@@ -20,7 +20,8 @@ nav {
 	-webkit-font-smoothing: antialiased;
  	font-size: 16px;
  	color: #838994;
- 	letter-spacing: 0.03em; 
+ 	letter-spacing: 0.03em;
+ } 
 .top-navigation .links {
     float: right;
     font-family: 'Roboto', sans-serif;
@@ -61,18 +62,25 @@ div > .content {
     background-repeat: no-repeat;
     background-size: cover;
     height: 45.938rem;
+    overflow: auto;
     color: white;
 }
+/*having trouble getting content box to center... seems stuck ugh*/
 .introduction > .content {
-	height: 70px;
-	width: 970px;
-	margin: 0 auto;
+	display: block;
+	height: 4.375rem;
+	width: 46rem;
+	margin:0 auto;
+	text-align: center;
 	padding: 0px 15px;
 	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
-
 }
-h1, h3 {
+h1 {
 	text-align:center;
+	font-size: 40px;
+}
+h3 {
 	font-size: 20px;
+	text-align:center;
 }
