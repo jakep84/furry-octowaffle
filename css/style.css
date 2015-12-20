@@ -4,14 +4,9 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-body {
-	color: lightGray;
-	background-image: url('../images/first-background.jpg');
-}
 div {
     border: 1px solid Chocolate;
 }
-
 nav {
 	background-color: white;
 }
@@ -60,4 +55,18 @@ div > .content {
 }
 .links > li {
 	display: inline-block;
+}
+/*this (my code) works */
+/*body {
+color: lightGray;
+background-image: url('../images/first-background.jpg');
+}*/
+
+/*this code messes up everything*/
+.introduction {
+    background-image: url('../images/first-background.jpg');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
 }
