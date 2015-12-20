@@ -71,3 +71,12 @@ background-image: url('../images/first-background.jpg');
     height: 45.938rem;
     color: white;
 }
+.introduction > .content {
+	height: 70px;
+	width: 970px;
+	margin: 0 auto;
+	padding: 0px 15px;
+	font-family: 'Roboto', sans-serif;
+	-webkit-font-smoothing: antialiased;
+
+}
