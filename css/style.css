@@ -94,7 +94,7 @@ section {
 	padding:16px 26px;
 	text-shadow: none;
 }
-.big-button:hover {
+.contents > .big-button:hover {
 	cursor:pointer;
 	background-color: #e68a00;
 }
