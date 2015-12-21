@@ -100,13 +100,20 @@ section {
 	background-color: #e68a00;
 }
 .cases {
+	font-family: 'Roboto', sans-serif;
+	-webkit-font-smoothing: antialiased;
 	width: 100%;
 	margin:auto 0;
 	display:inline-block;
 	text-align: center;
 }
-.cases h1{
-	text-align: center;
+.cases h2{
+	margin-top: 8.5rem;
+    font-size: 3.125rem;
+
+}
+.icon-section{
+	display: inline-block;
 }
 /*
 .section > .icon-section {
