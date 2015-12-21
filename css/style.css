@@ -99,18 +99,24 @@ section {
 	cursor:pointer;
 	background-color: #e68a00;
 }
-.icon-title {
+.cases {
+	width: 100%;
 	margin:auto 0;
 	display:inline-block;
+	text-align: center;
 }
+.cases h1{
+	text-align: center;
+}
+/*
 .section > .icon-section {
 	margin: auto 0;
 	text-align:center;
 }
 .icon > img{
-
 	text-align: center;
 	width: 25px;
 	height: 25px;
 	display: inline-block;
 }
+*/
