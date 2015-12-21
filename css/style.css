@@ -26,6 +26,7 @@ nav {
  	color: #838994;
  	letter-spacing: 0.03em;
  } 
+ /*still need to adjust spacing on nav links*/
 .top-navigation .links {
     float: right;
     font-family: 'Roboto', sans-serif;
@@ -97,4 +98,14 @@ section {
 .big-button:hover {
 	cursor:pointer;
 	background-color: #e68a00;
+}
+.icon-title {
+	margin:auto 0;
+}
+.icon-section {
+
+}
+.icon {
+	width: 55px;
+	height: 55px;
 }
