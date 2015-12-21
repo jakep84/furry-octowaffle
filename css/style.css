@@ -101,11 +101,16 @@ section {
 }
 .icon-title {
 	margin:auto 0;
+	display:inline-block;
 }
-.icon-section {
+.section > .icon-section {
+	margin: auto 0;
+	text-align:center;
+}
+.icon > img{
 
-}
-.icon {
-	width: 55px;
-	height: 55px;
+	text-align: center;
+	width: 25px;
+	height: 25px;
+	display: inline-block;
 }
