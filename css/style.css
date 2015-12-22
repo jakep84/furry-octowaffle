@@ -117,6 +117,8 @@ section {
 .cases .devices{
 	width:33.333333%;
 	display:inline-block;
+}.icons {
+	border-radius: 50%;
 }
 
 /*-----this might be worthless code---
