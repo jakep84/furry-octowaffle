@@ -111,14 +111,15 @@ section {
 	margin-top: 8.5rem;
     font-size: 3.125rem;
 }
+.cases h3 {
+	font-size: 1.563rem;
+
+}
 .cases .devices{
 	width:33.333333%;
 	display:inline-block;
-	/*styles to assist with debuggin*/
-	border:1px solid black;
-	box-sizing:border-box;
-	height:4em;
 }
+
 /*-----this might be worthless code---
 /*.icon-section{
 	display: inline-block;
