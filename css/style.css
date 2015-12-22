@@ -24,6 +24,7 @@ nav {
  	font-size: 16px;
  	color: #838994;
  	letter-spacing: 0.03em;
+ 	z-index: 9999;
  } 
  /*still need to adjust spacing on nav links*/
 .top-navigation .links {
