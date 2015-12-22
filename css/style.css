@@ -112,8 +112,17 @@ section {
     font-size: 3.125rem;
 
 }
-.icon-section{
+/*.icon-section{
 	display: inline-block;
+}
+*/
+.cases .devices{
+	width:33.333333%;
+	display:inline-block;
+	/*styles to assist with debuggin*/
+	border:1px solid black;
+	box-sizing:border-box;
+	height:4em;
 }
 /*
 .section > .icon-section {
