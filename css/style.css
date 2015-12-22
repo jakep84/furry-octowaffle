@@ -110,12 +110,7 @@ section {
 .cases h2{
 	margin-top: 8.5rem;
     font-size: 3.125rem;
-
 }
-/*.icon-section{
-	display: inline-block;
-}
-*/
 .cases .devices{
 	width:33.333333%;
 	display:inline-block;
@@ -124,7 +119,10 @@ section {
 	box-sizing:border-box;
 	height:4em;
 }
-/*
+/*-----this might be worthless code---
+/*.icon-section{
+	display: inline-block;
+}
 .section > .icon-section {
 	margin: auto 0;
 	text-align:center;
