@@ -125,10 +125,11 @@ nav {
 	border-radius: 50%;
 }
 
-/*-----this might be worthless code---
-/*.icon-section{
+/*-----this might be worthless code---*/
+.icon-section{
 	display: inline-block;
 }
+/*
 .section > .icon-section {
 	margin: auto 0;
 	text-align:center;
