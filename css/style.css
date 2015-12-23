@@ -8,9 +8,9 @@ body{
 	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
-div {
+/*div {
     border: 1px solid Chocolate;
-}
+} */
 nav {
 	background-color: white;
 }
@@ -83,9 +83,9 @@ nav {
 	margin-top: 1.25rem;
     font-size: 1.563rem;
 }
-section {
+/*section {
 	border:1px solid Chocolate;
-}
+}*/
 .big-button {
 	background-color: #ffa500;
 	margin: auto 0;
@@ -118,7 +118,10 @@ section {
 	width:33.333333%;
 	display:inline-block;
 }
-i {
+.content li {
+	
+}
+.icons i {
 	border-radius: 50%;
 }
 
