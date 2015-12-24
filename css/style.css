@@ -45,7 +45,7 @@ nav {
 	color: #333333;
 }
 .top-navigation > .content {
-	width: 970px;
+	width: 65%;
 	height: 70px;
 	margin: 0 auto;
 	padding: 0px 15px;
@@ -118,18 +118,18 @@ nav {
 	width:33.333333%;
 	display:inline-block;
 }
-.content li {
-	
+social ul {
+	list-style-type:none;
 }
 .icons i {
 	border-radius: 50%;
+	display:inline-block;
 }
 
-/*-----this might be worthless code---*/
 .icon-section{
 	display: inline-block;
 }
-/*
+/*-----this might be worthless code---
 .section > .icon-section {
 	margin: auto 0;
 	text-align:center;
