@@ -45,7 +45,7 @@ nav {
 	color: #333333;
 }
 .top-navigation > .content {
-	width: 65%;
+	width: gti ;
 	height: 70px;
 	margin: 0 auto;
 	padding: 0px 15px;
@@ -57,6 +57,7 @@ nav {
 }
 .links li {
 	display: inline-block;
+	padding: 0 6.5px;
 }
 .introduction {
     background-image: url('../images/first-background.jpg');
