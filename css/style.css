@@ -8,9 +8,9 @@ body{
 	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
-div {
+/*div {
     border: 1px solid Chocolate;
-}
+}*/
 nav {
 	background-color: white;
 }
@@ -18,7 +18,7 @@ nav {
 	background-color: #fff;
 	position: fixed;
 	width: 100%;
-	border-bottom: 1px solid #DDD;
+/*border-bottom: 1px solid #DDD;*/
 	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
  	font-size: 16px;
