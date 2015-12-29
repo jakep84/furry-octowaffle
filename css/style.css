@@ -135,4 +135,10 @@ nav {
 ul li{ 
  	list-style: none;
  	display: inline;
+ 	padding-top: 1px;
+ 
 }
+.content > .copyright {
+	text-color: #808080;
+}
+
